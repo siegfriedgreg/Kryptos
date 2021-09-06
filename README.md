@@ -1,20 +1,20 @@
-## Kryptos
+# Kryptos
 
 Learning python to crack the Kryptos sculpture!
 
-# Information on Kryptos
+## Information on Kryptos
 
 website can be found here: http://www.thekryptosproject.com/kryptos/
 
-# Current Status:
+## CURRENT STATUS:
 
 running main will allow you to choose the decryption solution for the first k1-3 ciphers.
 
-# WORKING ON:
+## WORKING ON:
 
 -- working on the solution to k4; k5 can only be solved with k4.
 
-# Solutions*:
+## SOLUTIONS*:
 
 * for all = Spacing implied by me; spelling implied by Sanborn
 
